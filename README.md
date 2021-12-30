@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Endpoint: api/top-langs?username=ashish-gopalika
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-gopalika)](https://github.com/ashish-gopalika/github-readme-stats)
