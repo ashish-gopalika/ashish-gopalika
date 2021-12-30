@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I am a Sophomore at Sir M. Visvesvaraya Institute of Technology.
 I am currently exploring the various technologies and frameworks that are currently used in IT industry.
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-gopalika&show_icons=true&theme=radical&count_private=true)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-gopalika&show_icons=true&theme=radical&count_private=true&border_radius=30)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-gopalika&langs_count=8&layout=compact)](https://github.com/ashish-gopalika/github-readme-stats)
