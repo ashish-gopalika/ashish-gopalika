@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a <b>Sophomore</b> at Sir M. Visvesvaraya Institute of Technology.<br/>
-I am currently exploring the various technologies and frameworks that are used in IT industry.I also like Problem Solving.
+I am currently exploring the various technologies and frameworks that are used in IT industry.I also like Problem Solving and I'm currently into web development.
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-gopalika&show_icons=true&theme=radical&count_private=true&border_radius=50)<br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-gopalika&langs_count=8&layout=compact&border_radius=40&theme=radical&length=80)](https://github.com/ashish-gopalika/github-readme-stats)
