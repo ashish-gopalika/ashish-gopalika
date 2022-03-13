@@ -1,6 +1,4 @@
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
 
 # This is Ashish Kumar Gopalika🙌
 <!--
