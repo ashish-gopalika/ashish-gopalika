@@ -23,8 +23,8 @@ I participate in Hackathons and really like team work and public speaking.
 
 
 # Connect with me!!
-<a href="https://www.linkedin.com/in/ashish-kumar-gopalika-308529215/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="60"></a>
-<a href="https://www.instagram.com/ashish_gopalika/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://github.com/ashish-gopalika" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://ashish-gopalika.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
-<a href="https://twitter.com/AshishGopalika" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-gopalika-308529215/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="50"></a>
+<a href="https://www.instagram.com/ashish_gopalika/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="50"></a>
+<a href="https://github.com/ashish-gopalika" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="50"></a>
+<a href="https://ashish-gopalika.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="50"></a>
+<a href="https://twitter.com/AshishGopalika" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="50"></a>
