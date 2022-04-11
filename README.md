@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a <b>Sophomore</b> at Sir M. Visvesvaraya Institute of Technology in Information Science.<br/>
+I am a Sophomore at Sir M. Visvesvaraya Institute of Technology in Information Science.<br/>
 I am currently exploring the various technologies and frameworks that are used in IT industry.I also like Problem Solving and I'm currently into web development.
 I participate in Hackathons and really like team work and public speaking.
 
